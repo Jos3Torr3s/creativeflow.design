@@ -1,0 +1,26 @@
+Zoom does not work for window widths <= 1024px (unless viewed in mobile):
+
+
+
+
+
+		
+        if (window.outerWidth > 768) {	
+			
+			...			
+			
+			if (window.outerWidth > 1024) {
+				pageElements.forEach(function(element) {element.style.width = 'calc(180mm + 20%)';});  // <--- BROWSER ZOOM WORKS
+			} else {
+				pageElements.forEach(function(element) {element.style.width = '90%';});  // <--- BROWSER ZOOM DOESN'T WORK
+			}
+			
+			...
+			
+        } else {  // smaller screens
+			
+			...
+			
+			pageElements.forEach(function(element) {element.style.width = '97.5%';});  // <--- BROWSER ZOOM DOESN'T WORK
+			
+			...
