@@ -1,35 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="596" height="842" viewBox="0 0 596 842">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="596" height="842" viewBox="0 0 596 842">
 <defs>
-<clipPath id="clip_20">
-<path d="M0 770.25H595.5V842.25H0Z" fill-rule="evenodd"/>
+<clipPath id="clip_32">
+<path d="M0 0H595.5V72H0Z" clip-rule="evenodd"/>
 </clipPath>
-<clipPath id="clip_21">
-<path d="M73.5 173.9961H522V578.9961H73.5Z" fill-rule="evenodd"/>
+<clipPath id="clip_33">
+<path d="M0 770.25H595.5V842.25H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_34">
+<path d="M73.5 173.9961H522V578.9961H73.5Z" clip-rule="evenodd"/>
 </clipPath>
 </defs>
 <path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H794V1123H0Z" fill="#ffffff"/>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 94.91992)" font-size="22.666666" font-family="Cambria"><tspan y="21.53776" x="0 18.474579 31.506348 44.25049 59.804536 73.92044 89.341739 96.68732 107.92694">MECHANISM</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="13.692708" x="116.71771 126.49332 130.56529 137.89342 146.04453 151.74816">Figure</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="13.692708" x="161.91736 169.24549">6:</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="177.79019 187.5658 192.72516 200.05329 205.75691 211.46054 216.34119 222.04482 228.54996 235.0551 239.12708 243.19905 250.52718 257.8553 265.1834">Cross-sectional</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="272.91947 279.42463 283.49659 290.0017">view</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="303.44139 310.7695">of</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="318.50556 322.5775 329.90565">the</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="340.07487 344.14686 351.47499 358.8031 365.30824">inner</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="374.6759 382.00404 389.33216">and</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="400.32435 407.65248 414.9806 419.05256 425.55769">outer</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="434.9254 441.43055 447.93568 452.00764 456.0796 463.4077 470.73585 477.24098 481.31895">cylinder,</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 598.209)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="174.87677 181.38191 187.88706 195.21518 202.5433 208.24694 212.31891 219.64704">exposing</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 598.209)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="230.63922 234.7112 242.03932">the</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 598.209)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="252.20853 256.28053 263.60865 270.93678 277.4419 284.77003 291.27516 298.60328 305.9314 312.43653 319.76466">independent</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 598.209)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="327.50074 334.82887 341.33399 348.6621 355.99024 361.69386">bypass</tspan></text>
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 598.209)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="371.06156 377.5667 384.89485 392.22297 399.5511 406.8792 413.38435 417.4563 423.1599">channels.</tspan></text>
-<g clip-path="url(#clip_20)">
-<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 791.7041)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="292.69929 300.8504">12</tspan></text>
+<g clip-path="url(#clip_32)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 36)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="0"> </tspan></text>
 </g>
-<g clip-path="url(#clip_21)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 72)" font-size="22.666666" font-family="Cambria"><tspan y="21.53776" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 94.91992)" font-size="22.666666" font-family="Cambria"><tspan y="21.53776" x="0 18.474579 31.506348 44.25049 59.804536 73.92044 89.341739 96.68732 107.92694">MECHANISM</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 94.91992)" font-size="22.666666" font-family="Cambria"><tspan y="21.53776" x="126.40152"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 117.83984)" font-size="22.666666" font-family="Cambria"><tspan y="21.53776" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 140.75879)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="14.9375" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 156.62793)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="14.9375" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 172.4961)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="542" x="602"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="13.692708" x="116.71771 126.49332 130.56529 137.89342 146.04453 151.74816">Figure</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="13.692708" x="158.2533"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-weight="bold" font-style="italic"><tspan y="13.692708" x="161.91736 169.24549">6:</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="174.12613"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="177.79019 187.5658 192.72516 200.05329 205.75691 211.46054 216.34119 222.04482 228.54996 235.0551 239.12708 243.19905 250.52718 257.8553 265.1834">Cross-sectional</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="269.2554"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="272.91947 279.42463 283.49659 290.0017">view</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="299.77735"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="303.4414 310.76954">of</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="314.8415"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="318.50556 322.5775 329.90565">the</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="336.4108"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="340.07487 344.14686 351.47499 358.8031 365.30824">inner</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="371.01185"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="374.6759 382.00404 389.33216">and</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="396.66029"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="400.32435 407.65248 414.9806 419.05256 425.5577">outer</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="431.26136"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="434.9254 441.43055 447.9357 452.0077 456.07966 463.40779 470.7359 477.24104 481.31904">cylinder,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="13.692708" x="484.9831 488.64717 492.31123 495.97529 499.63935 503.3034 506.96748 510.63154 514.2956 517.95968 521.6237 525.2878 528.95187 532.6159 536.27999 539.94406 543.6081 547.27218 550.9362 554.6003 558.26437 561.9284 565.59249 569.25656 572.9206 576.58468 580.2487 583.9128 587.57687 591.2409 594.90499 598.56906 602.2331 605.89718 609.5612 613.2253 616.88937 620.5534 624.21749 627.88156 631.5456 635.20968 638.8737 642.5378 646.20187 649.8659 653.52999 657.19406 660.8581 664.52218 668.1862 671.8503 675.51437 679.1784 682.84249 686.50656 690.1706">                                                         </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="33.088544" x="174.87677 181.38191 187.88706 195.21518 202.5433 208.24694 212.31891 219.64704">exposing</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="33.088544" x="226.97516"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="33.088544" x="230.63922 234.7112 242.03932">the</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="33.088544" x="248.54447"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="33.088544" x="252.20853 256.28053 263.60865 270.93678 277.4419 284.77003 291.27516 298.60328 305.9314 312.43653 319.76466">independent</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="33.088544" x="323.83668"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="33.088544" x="327.50074 334.82887 341.33399 348.6621 355.99024 361.69386">bypass</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="33.088544" x="367.3975"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="33.088544" x="371.06156 377.5667 384.89485 392.22297 399.5511 406.8792 413.38435 417.4563 423.15995">channels.</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 583.6621)" font-size="14.666667" font-family="TimesNewRomanPS" font-style="italic"><tspan y="33.088544" x="426.824"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 612.7539)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="14.9375" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 628.62307)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="14.9375" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 644.4922)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="14.9375" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 660.36038)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="14.9375" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 676.2285)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="14.9375" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 692.09768)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="14.9375" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 707.9668)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="14.9375" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 723.83499)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="14.9375" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 739.7031)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="14.9375" x="0"> </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 755.57229)" font-size="16" font-family="TimesNewRomanPSMT"><tspan y="14.9375" x="0"> </tspan></text>
+<g clip-path="url(#clip_33)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 791.7041)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="292.69929 300.8504">12</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 72 791.7041)" font-size="14.666667" font-family="ArialMT"><tspan y="13.757161" x="309.0015"> </tspan></text>
+</g>
+<g clip-path="url(#clip_34)">
 <g transform="matrix(.4130189,0,0,.41526703,-2.05365,-48.868959)">
-<image id="image_22" width="1449" height="2048" xlink:href="data:image/jpeg;base64,
+<image id="image_35" width="1449" height="2048" xlink:href="data:image/jpeg;base64,
 /9j/4AAQSkZJRgABAgAAAQABAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkS
 Ew8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJ
 CQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIy
